@@ -1,0 +1,13 @@
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\bin\Debug\AnketWINFORM.exe.config
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\bin\Debug\AnketWINFORM.exe
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\bin\Debug\AnketWINFORM.pdb
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.csproj.AssemblyReference.cache
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.Form1.resources
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.Properties.Resources.resources
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.csproj.GenerateResource.cache
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.exe
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.pdb
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\imrea\source\repos\AnketWINFORM\AnketWINFORM\obj\Debug\AnketWINFORM.csproj.CopyComplete
